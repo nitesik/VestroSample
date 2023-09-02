@@ -25,10 +25,10 @@ import {
   shareNow,
   success,
   video,
-} from "./icons";
+} from "../../lib/icons";
 import profileImg from "../../../public/Profile1.png";
-import { data } from "./assets/data";
-import { profileData } from "./data";
+import { data } from "../../lib/data";
+import profileData from "../../lib/profileData";
 
 function UnfollowHandler({
   unfollowScreen,

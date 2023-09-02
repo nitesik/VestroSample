@@ -1,5 +1,5 @@
 import styles from "@/styles/SideNav.module.css";
-import { logo, home, discover, envelope, book, setting, signout, user } from "./icons";
+import { logo, home, discover, envelope, book, setting, signout, user } from "../../lib/icons";
 import Image from "next/image";
 
 export default function SideNav() {

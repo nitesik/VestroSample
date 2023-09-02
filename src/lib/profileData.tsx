@@ -8,4 +8,4 @@ const profileData = [
   {pic: "/Profile7.png", sent: false},
 ]
 
-export { profileData };
+export default profileData;
