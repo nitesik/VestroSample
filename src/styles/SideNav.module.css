@@ -1,0 +1,33 @@
+.nav {
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 28px;
+  padding-bottom: 35px;
+  align-items: center;
+  border-right: 0.5px #D1D1D1 solid;
+  color: #465D61;
+  font-size: 14px;
+  position: sticky;
+  top: 0px;
+}
+
+.nav_components {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.nav_components > span {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 0 22.5px;
+}
+
+.nav_components .selected {
+  color: #00808B;
+  border-right: 3px #00808B solid;
+}
