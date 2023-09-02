@@ -14,7 +14,7 @@ import image from "../components/assets/image.png";
 import video from "../components/assets/video.png";
 import heart from "../components/assets/heart.png";
 import like from "../components/assets/like.png";
-import comment from "../components/assets/comment.png";
+import comment from "../components/assets/Comment.png";
 import share from "../components/assets/share.png";
 import option from "../components/assets/Option.png";
 import Send from "../components/assets/Send.png";
